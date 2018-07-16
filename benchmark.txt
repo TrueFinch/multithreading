@@ -1,0 +1,40 @@
+Random 10x10 matrix                          20    60200117 ns/op
+Triangle NxN matrix                         200    16374161 ns/op
+Random NxN matrix                           200    17073768 ns/op
+Hilbert NxN matrix                          200    15832745 ns/op
+Random 200x200 matrix                        20    60221475 ns/op
+
+Time taken: 14.694s
+Threads used: 1
+
+
+Random 10x10 matrix                          50    52093304 ns/op
+Triangle NxN matrix                         200    13280885 ns/op
+Random NxN matrix                           200    12730413 ns/op
+Hilbert NxN matrix                          200    11616935 ns/op
+Random 200x200 matrix                        50    42888386 ns/op
+
+Time taken: 16.206s
+Threads used: 2
+
+
+Random 10x10 matrix                          50    44090794 ns/op
+Triangle NxN matrix                         200    12778923 ns/op
+Random NxN matrix                           200    12007010 ns/op
+Hilbert NxN matrix                          200    12087228 ns/op
+Random 200x200 matrix                        50    44470466 ns/op
+
+Time taken: 15.55s
+Threads used: 3
+
+
+Random 10x10 matrix                          50    40568010 ns/op
+Triangle NxN matrix                         200    11472598 ns/op
+Random NxN matrix                           200    12104480 ns/op
+Hilbert NxN matrix                          200    10984596 ns/op
+Random 200x200 matrix                        50    39606782 ns/op
+
+Time taken: 14.568s
+Threads used: 4
+
+
